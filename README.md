@@ -15,20 +15,7 @@ To run this Python script, you only need:
 ### Running the Game
 
 1.  
-    You can simply download the `madlib_game.py` file.
-
-2.  
-    Open your terminal or command prompt and change your current directory to where the file is located:
-    ```bash
-    cd madlibs 
-    ```
-    (or the folder where you downloaded the file)
-
-3.  
-    Run the game using the Python interpreter:
-    ```bash
-    python madlib_game.py
-    ```
+    You can simply download the `madlib_game.py` file. Run from Idle Shell and play along.
 
 ## How to Play
 
