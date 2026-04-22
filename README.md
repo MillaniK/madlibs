@@ -1,6 +1,6 @@
 # Mad Libs: A Tale of Magic and Romance
 
-A simple, command-line Mad Libs game that generates a unique, humorous story about a magic girl and a prince based on user input.
+A simple, command-line Mad Libs game that generates a unique, humorous story.
 
 ## Description
 
